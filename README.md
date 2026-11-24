@@ -23,21 +23,21 @@ From the bottom line, draw an inclined line and extend it upward to meet the cir
 ## Step 4 
 Remove the unwanted sketch portions using Trim, then click Finish Sketch. Select Revolve and complete the feature through 360 degrees.
 
-<img width="210" height="335" alt="image" src="https://github.com/user-attachments/assets/11c0c632-9af6-4825-b6b4-2b6cf8f62a03" />
+# <img width="210" height="335" alt="image" src="https://github.com/user-attachments/assets/11c0c632-9af6-4825-b6b4-2b6cf8f62a03" />
 
 
 
-<img width="172" height="617" alt="image" src="https://github.com/user-attachments/assets/9737a6f8-90c3-4c73-87fa-c227872f9b1d" />
+# <img width="172" height="617" alt="image" src="https://github.com/user-attachments/assets/9737a6f8-90c3-4c73-87fa-c227872f9b1d" />
 
 
 ## Step 5
 Once the revolve is complete, open Design > Drawing > From Design. Insert the front, top and side views on the drawing sheet.
 
-<img width="242" height="142" alt="image" src="https://github.com/user-attachments/assets/cde12cac-8e8b-4669-9ac3-7c5d419c45a6" />
+# <img width="242" height="142" alt="image" src="https://github.com/user-attachments/assets/cde12cac-8e8b-4669-9ac3-7c5d419c45a6" />
 
-<img width="246" height="352" alt="image" src="https://github.com/user-attachments/assets/9bb013fb-a80f-4459-a26a-4c4d1b0a908f" />
+# <img width="246" height="352" alt="image" src="https://github.com/user-attachments/assets/9bb013fb-a80f-4459-a26a-4c4d1b0a908f" />
 
-<img width="393" height="435" alt="image" src="https://github.com/user-attachments/assets/d4eecd28-1e58-42bb-89b9-95e5f19d6967" />
+# <img width="393" height="435" alt="image" src="https://github.com/user-attachments/assets/d4eecd28-1e58-42bb-89b9-95e5f19d6967" />
 
 ## INPUT:
 
