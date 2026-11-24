@@ -11,37 +11,46 @@ To create the solid model from given drawing and section the solid model
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+## Step 1 
+Choose the front plane and start a new sketch. Create a line of length 1.501 from the origin. Draw a circle with a diameter of 2.113, then extend a line leftward from its centre.
 
-![image](https://user-images.githubusercontent.com/113594316/198826239-a3d6ffd5-d409-46b0-ba88-3312e89e9834.png)
+<img width="212" height="422" alt="image" src="https://github.com/user-attachments/assets/c09c3604-0aad-4246-a645-024dfe711b50" />
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+## Step2 
+Add an outer line at a distance of 0.148 from the circle. Create another circle so that it reaches the line. Draw the bottom line with a length of 1.366.
+## Step 3
+From the bottom line, draw an inclined line and extend it upward to meet the circle. Set the distance between the inclined line and the 1.501 line to 0.123. Keep a distance of 0.148 between the inclined line and the bottom line.
+## Step 4 
+Remove the unwanted sketch portions using Trim, then click Finish Sketch. Select Revolve and complete the feature through 360 degrees.
 
-![image](https://user-images.githubusercontent.com/113594316/198826244-f377f387-16af-4f89-a57d-1808083ce178.png)
+<img width="210" height="335" alt="image" src="https://github.com/user-attachments/assets/11c0c632-9af6-4825-b6b4-2b6cf8f62a03" />
 
-5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198826250-0e2f4985-18d7-4a07-8b1e-9c9fab11ea41.png)
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+<img width="172" height="617" alt="image" src="https://github.com/user-attachments/assets/9737a6f8-90c3-4c73-87fa-c227872f9b1d" />
 
-![image](https://user-images.githubusercontent.com/113594316/198826257-ccfcfd0c-040a-459e-bb9f-93c375f9177f.png)
 
-7.Use extrude option to convert 3D model from sketch
+## Step 5
+Once the revolve is complete, open Design > Drawing > From Design. Insert the front, top and side views on the drawing sheet.
 
-![image](https://user-images.githubusercontent.com/113594316/198826270-d55912b8-0a02-4b36-acb2-02e9b4b328fd.png)
+<img width="242" height="142" alt="image" src="https://github.com/user-attachments/assets/cde12cac-8e8b-4669-9ac3-7c5d419c45a6" />
 
- 8.Use revolve option to convert 2D to 3D.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198826282-7a4844a8-0cb2-4573-8940-9a60356b7d04.png)
+<img width="246" height="352" alt="image" src="https://github.com/user-attachments/assets/9bb013fb-a80f-4459-a26a-4c4d1b0a908f" />
+
+<img width="393" height="435" alt="image" src="https://github.com/user-attachments/assets/d4eecd28-1e58-42bb-89b9-95e5f19d6967" />
 
 ## INPUT:
 
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+
+<img width="495" height="546" alt="image" src="https://github.com/user-attachments/assets/a73368f4-d3fa-4471-a824-50be7614ad5e" />
+
+
+## OUTPUT DRAWING:
+
+<img width="805" height="568" alt="image" src="https://github.com/user-attachments/assets/23587753-bf0b-492a-ba7f-8d43dc3d4d8f" />
 
 
 ## RESULT:
